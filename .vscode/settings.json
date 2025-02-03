@@ -1,0 +1,50 @@
+{
+  "workbench.activityBar.location": "top",
+  "workbench.colorTheme": "AMOLED",
+  "editor.fontFamily": "'Fira Code'",
+  "editor.fontLigatures": "'calt', 'ss01'",
+  "editor.fontWeight": "700",
+  "editor.minimap.enabled": false,
+  "terminal.integrated.fontWeight": "600",
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.confirmSync": false,
+  "terminal.integrated.fontFamily": "monospace",
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "git.autofetch": true,
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "window.customTitleBarVisibility": "windowed",
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "terminal.integrated.defaultProfile.windows": "Command Prompt",
+  "[scss]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.updateImportsOnFileMove.enabled": "always",
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "liveServer.settings.donotVerifyTags": true,
+  "explorer.confirmDragAndDrop": false,
+  "explorer.confirmDelete": false,
+  "javascript.updateImportsOnFileMove.enabled": "always",
+  "cSpell.userWords": [
+    "Tradebook"
+  ],
+  "windsurf.enableSupercomplete": false,
+  "windsurf.enableTabToJump": false,
+  "windsurf.cascadeOpenOnReload": false,
+  "windsurf.autoExecutionPolicy": "off",
+  "[css]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+}
