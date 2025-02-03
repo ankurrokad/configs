@@ -46,5 +46,11 @@
   "windsurf.autoExecutionPolicy": "off",
   "[css]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "typescript.preferences.importModuleSpecifier": "non-relative",
+  "typescript.format.enable": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
   }
+  
 }
